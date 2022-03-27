@@ -1,0 +1,4 @@
+# ignore all htmls
+*.html
+# ignore all pdfs
+*.pdf
